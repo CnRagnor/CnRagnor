@@ -8,7 +8,7 @@
 
 💞️ I’m looking to collaborate on **CyberSecurity Projects**
 
-📫 How to reach me:! [LinkedIn]([your-linkedin-profile-url](https://www.linkedin.com/in/navneet-bij-2o2375))
+📫 How to reach me:[LinkedIn](your-linkedin-profile-url](https://www.linkedin.com/in/navneet-bij-2o2375)
 
 😄 Pronouns: **Ragnor**
 
