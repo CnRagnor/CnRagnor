@@ -1,59 +1,15 @@
-- 👋 # Hi, I’m @Navneet 👋
+# 💫 About Me:
+About Me<br>Hey there! I'm Nav, a cybersecurity analyst and privacy researcher with a passion for ethical hacking, OSINT, and AI-powered threat detection. My work blends deep technical exploration with a relentless drive to protect digital privacy and uncover security flaws before the bad guys do.<br><br> Current Projects<br>- 🧠 Phishing Detection Tool (with AI Integration)<br>Building a smart solution that blends machine learning with heuristics to identify phishing patterns in real-time, across multiple platforms.<br><br>- 🌐 Privacy & Cyber Community Building<br>Looking to connect and collaborate with privacy advocates, researchers, and ethical hackers around the globe. If you're into cyber-anonymity, encryption, or responsible hacking — let's talk!<br>- 🚨 Future-Forward Cybercrime Detection<br>Exploring advanced methodologies for proactively identifying emerging cyber threats, from AI-driven deception detection to forensic automation.<br>- 🕵️‍♂️ Learning Journey: AI Integration + OSINT<br>Expanding my toolkit to include intelligence gathering from open sources and integrating AI into day-to-day analysis workflows.<br><br>💬 Ask Me About…<br>- How to set up safe malware analysis labs 🧪<br>- Advanced techniques for dissecting DOCX and PDF-based threats 📄<br>- Setting up subdomain enumeration workflows using Kali 🔍<br>- CTF tactics for bypassing upload filters or SMB tracing 💣<br><br>🎉 Fun Facts<br>- I love decoding obfuscated scripts — it’s like solving cyber-puzzles! 🧩<br>- If I weren’t in cybersecurity, I’d probably be an investigative journalist 🔎<br>- I once reverse-engineered a malware sample just to understand its evasion tricks—turns out, it was hiding in plain sight with a decoy payload. That rabbit hole? Surprisingly fun.<br>- 🗺️ I treat Google Dorking like treasure hunting—turns out some admin panels hide in plain sight.<br><br><br><br>
 
-![Profile Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+My+GitHub+Profile)
 
-👀 I’m interested in **CyberSecurity**
-
-🌱 I’m currently learning **Linux** and **React**
-
-💞️ I’m looking to collaborate on **CyberSecurity Projects**
-
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/navneet-bij-2o2375)
-
-😄 Pronouns: **Ragnor**
-
-⚡ Fun fact: In my free time, I immerse myself in tech blogs and research papers, staying up-to-date with the latest advancements and trends in the industry.
-
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
-
-## 🛠️ Tech Stack
-
-- **Languages**: 
-  ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)
-- **Frameworks**: 
-  ![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react)
-  ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js)
-- **Tools**: 
-  ![Git](https://img.shields.io/badge/-Git-orange?style=flat&logo=git)
-  ![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=linux)
-
-## 📚 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-## 💡 Projects and Contributions
-
-- **[Project Name](project-url)**: Brief description of the project.
-- **[Another Project](project-url)**: Brief description of another project.
-
-## 🤝 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](your-linkedin-profile-url)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](your-github-profile-url)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter)](your-twitter-profile-url)
-
-![Visitor Count](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Affinity Photo](https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=CnRagnor&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=CnRagnor&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CnRagnor&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=CnRagnor&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-
-<!---
-CnRagnor/CnRagnor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
