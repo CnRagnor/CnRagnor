@@ -1,8 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff9f,100:0d1117&height=200&section=header&text=CnRagnor&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20%C2%B7%20Privacy%20%C2%B7%20OSINT%20%C2%B7%20AI%20Defense&descAlignY=58&descSize=18&descColor=00ff9f" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0f0f23&height=160&section=header&text=CnRagnor&fontSize=72&fontColor=ffffff&fontAlignY=45&desc=Cybersecurity%20%C2%B7%20Privacy%20%C2%B7%20OSINT%20%C2%B7%20AI%20Defense&descAlignY=76&descSize=18&descColor=58a6ff" width="100%"/>
 
 <br/>
+
 
 **`Cybersecurity Analyst · Privacy Researcher · OSINT · Ethical Hacking`**
 
@@ -10,13 +11,12 @@
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-CnRagnor-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CnRagnor)
+[![GitHub](https://img.shields.io/badge/GitHub-CnRagnor-0f0f23?style=for-the-badge&logo=github&logoColor=58a6ff)](https://github.com/CnRagnor)
 &nbsp;
-![Focus](https://img.shields.io/badge/Focus-Cyber%20Defense-00ff9f?style=for-the-badge&labelColor=161b22&color=00ff9f&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-Cyber%20Defense-0f0f23?style=for-the-badge&labelColor=0f0f23&color=58a6ff&logoColor=white)
 &nbsp;
-![Mode](https://img.shields.io/badge/Mode-Stealth-0d1117?style=for-the-badge&labelColor=0d1117&color=555555)
+![Mode](https://img.shields.io/badge/Mode-Stealth-0f0f23?style=for-the-badge&labelColor=0f0f23&color=30363d)
 &nbsp;
-[![Views](https://visitcount.itsvg.in/api?id=CnRagnor&icon=6&color=9)](https://visitcount.itsvg.in)
 
 </div>
 
@@ -26,7 +26,7 @@
 
 ```python
 analyst = {
-    "handle"      : "CnRagnor",
+    "Name"      : "Navneet",
     "role"        : ["Cybersecurity Analyst", "Privacy Researcher"],
     "domains"     : ["OSINT", "Ethical Hacking", "AI Threat Detection",
                      "Malware Analysis", "Digital Forensics"],
@@ -158,15 +158,15 @@ DEFENSIVE FOCUS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=CnRagnor&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00ff9f&text_color=c9d1d9&icon_color=00ff9f" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=CnRagnor&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0f0f23&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Stats"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CnRagnor&theme=dark&hide_border=true&background=0d1117&ring=00ff9f&fire=00ff9f&currStreakLabel=00ff9f&sideLabels=c9d1d9&dates=c9d1d9&stroke=00ff9f" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=CnRagnor&theme=dark&hide_border=true&background=0f0f23&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=c9d1d9&stroke=58a6ff" alt="GitHub Streak"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CnRagnor&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=00ff9f&text_color=c9d1d9" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CnRagnor&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0f0f23&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages"/>
 
 </div>
 
@@ -199,7 +199,7 @@ DEFENSIVE FOCUS
 └─────────────────────────────────────────────┘
 ```
 
-[![GitHub Follow](https://img.shields.io/github/followers/CnRagnor?label=Follow%20on%20GitHub&style=for-the-badge&logo=github&labelColor=181717&color=00ff9f&logoColor=white)](https://github.com/CnRagnor)
+[![GitHub Follow](https://img.shields.io/github/followers/CnRagnor?label=Follow%20on%20GitHub&style=for-the-badge&logo=github&labelColor=0f0f23&color=58a6ff&logoColor=white)](https://github.com/CnRagnor)
 
 </div>
 
@@ -215,7 +215,7 @@ DEFENSIVE FOCUS
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff9f,100:0d1117&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0f0f23&height=60&section=footer" width="100%"/>
 
 `[ Analyst by trade. Researcher by nature. Private by design. ]`
 
