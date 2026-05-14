@@ -1,13 +1,14 @@
 <!-- Header Banner -->
 <div align="center">
 
-```
+<pre>
 ╔═══════════════════════════════════════════════════════════╗
 ║           S I G N A L   O V E R   N O I S E              ║
 ║     Cybersecurity · Privacy · OSINT · AI Detection       ║
 ╚═══════════════════════════════════════════════════════════╝
-```
+</pre>
 
+</div>
 # Navneet
 
 **`Cybersecurity Analyst · Privacy Researcher · OSINT · Ethical Hacking`**
