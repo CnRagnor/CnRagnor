@@ -26,7 +26,7 @@
 
 ```python
 analyst = {
-    "Name"      : "Navneet",
+    "Name"      : "CnRagnor",
     "role"        : ["Cybersecurity Analyst", "Privacy Researcher"],
     "domains"     : ["OSINT", "Ethical Hacking", "AI Threat Detection",
                      "Malware Analysis", "Digital Forensics"],
